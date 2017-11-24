@@ -13,18 +13,27 @@ bool UMainMenu::Initialize()
 	Host->OnClicked.AddDynamic(this, &UMainMenu::HostServer);
 
 	if (!ensure(Join != nullptr)) return false;
-	Join->OnClicked.AddDynamic(this, &UMainMenu::JoinServer);
+	//Join->OnClicked.AddDynamic(this, &UMainMenu::JoinServer("ala"));
 
 	return true;
 }
 
-void UMainMenu::HostServer()
+void UMainMenu::SetMenuInterface(IMenuInterface* MenuInterface)
 {
-	UE_LOG(LogTemp, Warning, TEXT("I will host"));
+	this->MenuInterface = MenuInterface;
 }
 
-void UMainMenu::JoinServer(Fstring a)
+void UMainMenu::HostServer()
 {
-	UE_LOG(LogTemp, Warning, TEXT("I will host"));
+	if (!ensure(MenuInterface != nullptr))
+	{
+		MenuInterface->Host();
+	}
+	
+}
+
+void UMainMenu::JoinServer(FString a)
+{
+	UE_LOG(LogTemp, Warning, TEXT("I will join"));
 }
 
