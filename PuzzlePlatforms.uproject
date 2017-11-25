@@ -13,5 +13,11 @@
 				"UMG"
 			]
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "StereoPanorama",
+			"Enabled": true
+		}
 	]
 }
