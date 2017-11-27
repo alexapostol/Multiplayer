@@ -26,6 +26,9 @@ public:
 	UFUNCTION(BlueprintCallable)
 	void InGameLoadMenu();
 
+	UFUNCTION(BlueprintCallable)
+		void ToggleRotation(class ADoor* Door);
+
 	UFUNCTION(Exec)
 	void Host() override;
 
@@ -39,5 +42,7 @@ private:
 	TSubclassOf<class UUserWidget> InGameMenuClass;
 
 	class UMainMenu* Menu;
+
+	
 
 };
