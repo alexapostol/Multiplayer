@@ -26,16 +26,32 @@ protected:
 
 private:
 		UPROPERTY(meta = (BindWidget))
-		class UButton* Host;
+		class UButton* HostButton;
 
 		UPROPERTY(meta = (BindWidget))
-		class UButton* Join;
+		class UButton* JoinButton;
+
+
+		UPROPERTY(meta = (BindWidget))
+		class UWidgetSwitcher* MenuSwitcher;
+
+		UPROPERTY(meta = (BindWidget))
+		class UWidget* JoinMenu;
+
+		UPROPERTY(meta = (BindWidget))
+		class UWidget* MainMenu;
+
+		UPROPERTY(meta = (BindWidget))
+		class UButton* CancelJoinMenuButton;
 	
 		UFUNCTION()
 		void HostServer();
 
 		UFUNCTION()
-		void JoinServer(FString a);
+		void OpenJoinMenu();
+
+		UFUNCTION()
+		void OpenMainMenu();
 	
 		IMenuInterface* MenuInterface;
 		
