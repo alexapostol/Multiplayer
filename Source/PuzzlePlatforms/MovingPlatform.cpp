@@ -2,6 +2,7 @@
 
 #include "MovingPlatform.h"
 
+
 AMovingPlatform::AMovingPlatform()
 {
 	PrimaryActorTick.bCanEverTick = true;
@@ -13,8 +14,7 @@ void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
 
-	if (HasAuthority())
-	{
+	if (HasAuthority()) {
 		SetReplicates(true);
 		SetReplicateMovement(true);
 	}
@@ -26,7 +26,7 @@ void AMovingPlatform::BeginPlay()
 void AMovingPlatform::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-	
+
 	if (ActiveTriggers > 0)
 	{
 		if (HasAuthority())
@@ -43,7 +43,7 @@ void AMovingPlatform::Tick(float DeltaTime)
 			}
 
 			FVector Direction = (GlobalTargetLocation - GlobalStartLocation).GetSafeNormal();
-			Location += speed * DeltaTime*Direction;
+			Location += Speed * DeltaTime * Direction;
 			SetActorLocation(Location);
 		}
 	}
@@ -53,8 +53,11 @@ void AMovingPlatform::AddActiveTrigger()
 {
 	ActiveTriggers++;
 }
+
 void AMovingPlatform::RemoveActiveTrigger()
 {
-	if (ActiveTriggers > 0)ActiveTriggers--;
+	if (ActiveTriggers > 0)
+	{
+		ActiveTriggers--;
+	}
 }
-
