@@ -17,6 +17,7 @@ UPuzzlePlatformsGameInstance::UPuzzlePlatformsGameInstance(const FObjectInitiali
 
 	MenuClass = MenuBPClass.Class;
 
+	ConstructorHelpers::FClassFinder<UUserWidget> InGameMenuBPClass(TEXT("/Game/MenuSystem/A/WBP_InGameMenu"));
 	if (!ensure(InGameMenuBPClass.Class != nullptr)) return;
 
 	InGameMenuClass = InGameMenuBPClass.Class;

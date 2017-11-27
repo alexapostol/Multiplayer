@@ -16,8 +16,10 @@ bool UMainMenu::Initialize()
 
 	if (!ensure(JoinButton != nullptr)) return false;
 	JoinButton->OnClicked.AddDynamic(this, &UMainMenu::OpenJoinMenu);
+	
 	if (!ensure(QuitButton != nullptr)) return false;
 	QuitButton->OnClicked.AddDynamic(this, &UMainMenu::QuitPressed);
+	
 	if (!ensure(CancelJoinMenuButton != nullptr)) return false;
 	CancelJoinMenuButton->OnClicked.AddDynamic(this, &UMainMenu::OpenMainMenu);
 
