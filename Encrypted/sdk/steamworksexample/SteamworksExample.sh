@@ -1,15 +1,21 @@
-U2FsdGVkX1+jNE6oCXGw9qwAQ7nTOKnxhIlF7ak9/sIxT4z2+Ijd1XTavGpnXR4x
-FUIOdghpPgYGJoBLYQan1QHzPjV0mV98rfUfKkGYtX6XdszcylU2rSpp/c41ni5C
-quyFoQhNGTg42heJBdBCk0sBl7KW/JN5xwC0lOLVrrLwNqzUojhPQn9s8a3Rsui8
-hKrScQn4Ka4YxyoEHMouy4uIE+sNpW4RgNVhiq4lf1ASqbZNEGISd1Zip+9reSs6
-BRnqlA2710c0Ip4bGPDaY+s6+4DxnIqm/eLbXZ30RB6BWwy3j5Mc0VSWnrH9qMLE
-YBkRMtUPW1dLwIcFC4vLsznC+kd+Ki+fNEO76AOXCyO4gxe2GyGxqAE8vGGXgL36
-kErOhIqTbz9F3m4NI+kprWv144xf4fpVWfDDYjmcGk7XXwedNJzxjI0rgT5pmoSY
-dI1xlwsYHvofXfCMo24gE0Kpbpa1iuQR4ZbHrRG5pJELq509MODbgzrMe/c8yW0h
-vku5JziQsuuPEagHkEjgN9mZ9ABs/YGTck8QzLSmrPtiNUXHj1PV6HqOtrIzZnew
-uglUG9KnAmmw5rRM1nbGtpDJJAUh9pUPW3rGWSfR0K71M/OpoMDRrzlChXp4VQsq
-z8EMBRvJBKQC2TnTYqWFM5/kfTjrO5U/UuWBsKoqlx0JDXSovgGro+eoq7PHWGUc
-sb3dLrsWS3Bh04KhlKeuU/sORwQtKYRGIgDCMZGuTFDf7YP40/hoycGC1GeGFnBj
-nF5q6SVjV+K7eWge/PD6zov7ZhSufMB9yByMT4cfwg+MPxjg7yY8X6arR6V6Ats0
-MAlbmrtVub8Gk/AGXxse7ELYmtv7E6qQJRv423jnOwxwS+T1rnMIMkqZbIxog69v
-KMSCcgTzyvskGZSl5mpHcMXECWaAI6cphM2Gt8bP2q8w1Dk3jhoF9JryKMORq/l5
+#!/bin/bash
+#
+# This is a script which runs the SteamworksExample in the Steam runtime
+
+# The program location
+TOP=$(cd "${0%/*}" && echo ${PWD})
+
+PROGRAM="${TOP}/SteamworksExampleLinux"
+
+# Steam sets this environment variable when launching games
+if [ "$STEAM_RUNTIME" = "" ]; then
+    export STEAM_RUNTIME="${TOP}/../../tools/linux/runtime/i386"
+    export LD_LIBRARY_PATH="${STEAM_RUNTIME}/lib/i386-linux-gnu:${STEAM_RUNTIME}/lib:${STEAM_RUNTIME}/usr/lib/i386-linux-gnu:${STEAM_RUNTIME}/usr/lib:${LD_LIBRARY_PATH}"
+fi
+
+# Add the current directory to the library path to pick up libsteam_api.so
+export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:."
+
+exec "${PROGRAM}" "$@"
+
+# vi: ts=4 sw=4 expandtab

@@ -1,136 +1,232 @@
-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
+//========= Copyright � 1996-2008, Valve LLC, All rights reserved. ============
+//
+// Purpose: 
+//
+// $NoKeywords: $
+//=============================================================================
+
+
+// stdafx.h : include file for standard system include files,
+// or project specific include files that are used frequently, but
+// are changed infrequently
+//
+
+#pragma once
+
+#include <stdio.h>
+#include <stdarg.h>
+
+#define MAX(a,b)  (((a) > (b)) ? (a) : (b))
+#define MIN(a,b)  (((a) < (b)) ? (a) : (b))
+
+#ifdef WIN32
+
+// Modify the following defines if you have to target a platform prior to the ones specified below.
+// Refer to MSDN for the latest info on corresponding values for different platforms.
+#ifndef WINVER				// Allow use of features specific to Windows 2k or later.
+#define WINVER 0x0500		// Change this to the appropriate value to target other versions of Windows.
+#endif
+
+#ifndef _WIN32_WINNT		// Allow use of features specific to Windows 2k or later.                   
+#define _WIN32_WINNT 0x0500	// Change this to the appropriate value to target other versions of Windows.
+#endif						
+
+#ifndef _WIN32_WINDOWS		// Allow use of features specific to Windows 98 or later.
+#define _WIN32_WINDOWS 0x0410 // Change this to the appropriate value to target Windows Me or later.
+#endif
+
+#ifndef _WIN32_IE			// Allow use of features specific to IE 6.0 or later.
+#define _WIN32_IE 0x0600	// Change this to the appropriate value to target other versions of IE.
+#endif
+
+#define WIN32_LEAN_AND_MEAN		// Exclude rarely-used stuff from Windows headers
+
+#pragma comment( lib, "d3d9.lib" )
+#pragma comment( lib, "d3dx9.lib" )
+#pragma comment( lib, "dxguid.lib" )
+
+// Windows Header Files:
+#include <windows.h>
+#include <tchar.h>
+
+// Winsock
+#include <winsock2.h>
+#pragma comment(lib, "ws2_32.lib" )
+
+// d3d header files
+#include "d3d9.h"
+#include "d3dx9.h"
+
+// XAudio2 header files
+#include <xaudio2.h>
+
+typedef __int16 int16;
+typedef unsigned __int16 uint16;
+typedef __int32 int32;
+typedef unsigned __int32 uint32;
+typedef __int64 int64;
+typedef unsigned __int64 uint64;
+
+#include "steam/steam_api.h"
+#include "steam/isteamuserstats.h"
+#include "steam/isteamremotestorage.h"
+#include "steam/isteammatchmaking.h"
+#include "steam/steam_gameserver.h"
+
+#elif defined(POSIX)
+
+#include <limits.h>
+#include <stdio.h>
+#include <stddef.h>
+#include <stdlib.h>
+#include <string.h>
+#include <string>
+#include <sys/socket.h>
+#include <netinet/in.h>
+
+	#if defined(_PS3)
+
+	#include "stdafx_ps3.h"
+
+	#elif defined(OSX)
+	
+	#include <OpenGL/OpenGL.h>
+
+	#endif
+
+#define ARRAYSIZE(A) ( sizeof(A)/sizeof(A[0]) )
+// Need to define some types on POSIX
+typedef short int16;
+typedef unsigned short uint16;
+typedef int int32;
+typedef unsigned int uint32;
+typedef long long int64;
+typedef unsigned long long uint64;
+typedef uint32 DWORD;
+typedef DWORD HWND;
+typedef DWORD HINSTANCE;
+typedef short SHORT;
+typedef long LONG;
+typedef unsigned char byte;
+typedef unsigned char uint8;
+
+/* Font Weights */
+#define FW_DONTCARE         0
+#define FW_THIN             100
+#define FW_EXTRALIGHT       200
+#define FW_LIGHT            300
+#define FW_NORMAL           400
+#define FW_MEDIUM           500
+#define FW_SEMIBOLD         600
+#define FW_BOLD             700
+#define FW_EXTRABOLD        800
+#define FW_HEAVY            900
+
+/* Some VK_ defines from windows, we'll map these for posix */
+#define VK_BACK           0x08
+#define VK_TAB            0x09
+#define VK_RETURN         0x0D
+#define VK_SHIFT          0x10
+#define VK_CONTROL        0x11
+#define VK_ESCAPE         0x1B
+#define VK_SPACE          0x20
+#define VK_LEFT           0x25
+#define VK_UP             0x26
+#define VK_RIGHT          0x27
+#define VK_DOWN           0x28
+#define VK_SELECT         0x29
+#define VK_F5			  0x74
+
+#ifndef VALVE_RECT_DEFINED
+#define VALVE_RECT_DEFINED
+
+	typedef struct tagRECT
+	{
+		LONG    left;
+		LONG    top;
+		LONG    right;
+		LONG    bottom;
+	} RECT;
+
+	#define _RECT tagRECT
+#endif
+
+#define D3DCOLOR_ARGB(a,r,g,b) \
+	((DWORD)((((a)&0xff)<<24)|(((r)&0xff)<<16)|(((g)&0xff)<<8)|((b)&0xff)))
+
+// Macros for converting ARGB DWORD color representation into opengl formats...
+#define COLOR_RED( color ) \
+	(GLubyte)(((color)>>16)&0xff)
+
+#define COLOR_GREEN( color ) \
+	(GLubyte)(((color)>>8)&0xff)
+
+#define COLOR_BLUE( color ) \
+	(GLubyte)((color)&0xff)
+
+#define COLOR_ALPHA( color ) \
+	(GLubyte)(((color)>>24)&0xff)
+
+#define DWARGB_TO_DWRGBA(color) \
+	((DWORD)(( (((((color)>>16)&0xff))<<24)|(((((color)>>8)&0xff))<<16)|((color&0xff)<<8)|((color)>>24)&0xff)))
+
+#define DWARGB_TO_DWABGR(color) \
+	((DWORD)(( (((((color)>>24)&0xff))<<24)|(((((color))&0xff))<<16)|(((color>>8)&0xff)<<8)|((color)>>16)&0xff)))
+
+#define DWRGBA_TO_DWARGB(color) \
+	((DWORD)(( (((((color))&0xff))<<24)|(((((color>>24))&0xff))<<16)|(((color>>16)&0xff)<<8)|((color)>>8)&0xff)))
+
+// steam api header file
+#include "steam/steam_api.h"
+#include "steam/isteamuserstats.h"
+#include "steam/isteamremotestorage.h"
+#include "steam/isteammatchmaking.h"
+#include "steam/steam_gameserver.h"
+
+extern void OutputDebugString( const char *pchMsg );
+extern int Alert( const char *lpCaption, const char *lpText );
+extern const char *GetUserSaveDataPath();
+
+#define V_ARRAYSIZE(a) sizeof(a)/sizeof(a[0]) 
+
+#endif	// POSIX
+
+// OUT_Z_ARRAY indicates an output array that will be null-terminated.
+#if _MSC_VER >= 1600
+       // Include the annotation header file.
+       #include <sal.h>
+       #if _MSC_VER >= 1700
+              // VS 2012+
+              #define OUT_Z_ARRAY _Post_z_
+       #else
+              // VS 2010
+              #define OUT_Z_ARRAY _Deref_post_z_
+       #endif
+#else
+       // gcc, clang, old versions of VS
+       #define OUT_Z_ARRAY
+#endif
+ 
+template <size_t maxLenInChars> void sprintf_safe(OUT_Z_ARRAY char (&pDest)[maxLenInChars], const char *pFormat, ... )
+{
+	va_list params;
+	va_start( params, pFormat );
+#ifdef POSIX
+	vsnprintf( pDest, maxLenInChars, pFormat, params );
+#else
+	_vsnprintf( pDest, maxLenInChars, pFormat, params );
+#endif
+	pDest[maxLenInChars - 1] = '\0';
+	va_end( params );
+}
+
+#ifdef STEAM_CEG
+// Steam DRM header file
+#include "cegclient.h"
+#else
+#define Steamworks_InitCEGLibrary() (true)
+#define Steamworks_TermCEGLibrary()
+#define Steamworks_TestSecret()
+#define Steamworks_SelfCheck()
+#endif
+

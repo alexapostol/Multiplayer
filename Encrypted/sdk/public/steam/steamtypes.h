@@ -1,123 +1,181 @@
-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
-O0I32P+qa6DAdKCa0OMThw==
+//========= Copyright © 1996-2008, Valve LLC, All rights reserved. ============
+//
+// Purpose:
+//
+//=============================================================================
+
+#ifndef STEAMTYPES_H
+#define STEAMTYPES_H
+#ifdef _WIN32
+#pragma once
+#endif
+
+#define S_CALLTYPE __cdecl
+
+// Steam-specific types. Defined here so this header file can be included in other code bases.
+#ifndef WCHARTYPES_H
+typedef unsigned char uint8;
+#endif
+
+#if defined( __GNUC__ ) && !defined(POSIX)
+	#if __GNUC__ < 4
+		#error "Steamworks requires GCC 4.X (4.2 or 4.4 have been tested)"
+	#endif
+	#define POSIX 1
+#endif
+
+#if defined(__x86_64__) || defined(_WIN64) || defined(__aarch64__)
+#define X64BITS
+#endif
+
+// Make sure VALVE_BIG_ENDIAN gets set on PS3, may already be set previously in Valve internal code.
+#if !defined(VALVE_BIG_ENDIAN) && defined(_PS3)
+#define VALVE_BIG_ENDIAN
+#endif
+
+typedef unsigned char uint8;
+typedef signed char int8;
+
+#if defined( _WIN32 )
+
+typedef __int16 int16;
+typedef unsigned __int16 uint16;
+typedef __int32 int32;
+typedef unsigned __int32 uint32;
+typedef __int64 int64;
+typedef unsigned __int64 uint64;
+
+typedef int64 lint64;
+typedef uint64 ulint64;
+
+#ifdef X64BITS
+typedef __int64 intp;				// intp is an integer that can accomodate a pointer
+typedef unsigned __int64 uintp;		// (ie, sizeof(intp) >= sizeof(int) && sizeof(intp) >= sizeof(void *)
+#else
+typedef __int32 intp;
+typedef unsigned __int32 uintp;
+#endif
+
+#else // _WIN32
+
+typedef short int16;
+typedef unsigned short uint16;
+typedef int int32;
+typedef unsigned int uint32;
+typedef long long int64;
+typedef unsigned long long uint64;
+
+// [u]int64 are actually defined as 'long long' and gcc 64-bit
+// doesn't automatically consider them the same as 'long int'.
+// Changing the types for [u]int64 is complicated by
+// there being many definitions, so we just
+// define a 'long int' here and use it in places that would
+// otherwise confuse the compiler.
+typedef long int lint64;
+typedef unsigned long int ulint64;
+
+#ifdef X64BITS
+typedef long long intp;
+typedef unsigned long long uintp;
+#else
+typedef int intp;
+typedef unsigned int uintp;
+#endif
+
+#endif // else _WIN32
+
+#ifdef API_GEN
+# define CLANG_ATTR(ATTR) __attribute__((annotate( ATTR )))
+#else
+# define CLANG_ATTR(ATTR)
+#endif
+
+#define METHOD_DESC(DESC) CLANG_ATTR( "desc:" #DESC ";" )
+#define IGNOREATTR() CLANG_ATTR( "ignore" )
+#define OUT_STRUCT() CLANG_ATTR( "out_struct: ;" )
+#define OUT_STRING() CLANG_ATTR( "out_string: ;" )
+#define OUT_ARRAY_CALL(COUNTER,FUNCTION,PARAMS) CLANG_ATTR( "out_array_call:" #COUNTER "," #FUNCTION "," #PARAMS ";" )
+#define OUT_ARRAY_COUNT(COUNTER, DESC) CLANG_ATTR( "out_array_count:" #COUNTER  ";desc:" #DESC )
+#define ARRAY_COUNT(COUNTER) CLANG_ATTR( "array_count:" #COUNTER ";" )
+#define ARRAY_COUNT_D(COUNTER, DESC) CLANG_ATTR( "array_count:" #COUNTER ";desc:" #DESC )
+#define BUFFER_COUNT(COUNTER) CLANG_ATTR( "buffer_count:" #COUNTER ";" )
+#define OUT_BUFFER_COUNT(COUNTER) CLANG_ATTR( "out_buffer_count:" #COUNTER ";" )
+#define OUT_STRING_COUNT(COUNTER) CLANG_ATTR( "out_string_count:" #COUNTER ";" )
+#define DESC(DESC) CLANG_ATTR("desc:" #DESC ";")
+#define CALL_RESULT(RESULT_TYPE) CLANG_ATTR("callresult:" #RESULT_TYPE ";")
+#define CALL_BACK(RESULT_TYPE) CLANG_ATTR("callback:" #RESULT_TYPE ";")
+
+const int k_cubSaltSize   = 8;
+typedef	uint8 Salt_t[ k_cubSaltSize ];
+
+//-----------------------------------------------------------------------------
+// GID (GlobalID) stuff
+// This is a globally unique identifier.  It's guaranteed to be unique across all
+// racks and servers for as long as a given universe persists.
+//-----------------------------------------------------------------------------
+// NOTE: for GID parsing/rendering and other utils, see gid.h
+typedef uint64 GID_t;
+
+const GID_t k_GIDNil = 0xffffffffffffffffull;
+
+// For convenience, we define a number of types that are just new names for GIDs
+typedef uint64 JobID_t;			// Each Job has a unique ID
+typedef GID_t TxnID_t;			// Each financial transaction has a unique ID
+
+const GID_t k_TxnIDNil = k_GIDNil;
+const GID_t k_TxnIDUnknown = 0;
+
+const JobID_t k_JobIDNil = 0xffffffffffffffffull;
+
+// this is baked into client messages and interfaces as an int, 
+// make sure we never break this.
+typedef uint32 PackageId_t;
+const PackageId_t k_uPackageIdFreeSub = 0x0;
+const PackageId_t k_uPackageIdInvalid = 0xFFFFFFFF;
+
+typedef uint32 BundleId_t;
+const BundleId_t k_uBundleIdInvalid = 0;
+
+// this is baked into client messages and interfaces as an int, 
+// make sure we never break this.
+typedef uint32 AppId_t;
+const AppId_t k_uAppIdInvalid = 0x0;
+
+typedef uint64 AssetClassId_t;
+const AssetClassId_t k_ulAssetClassIdInvalid = 0x0;
+
+typedef uint32 PhysicalItemId_t;
+const PhysicalItemId_t k_uPhysicalItemIdInvalid = 0x0;
+
+
+// this is baked into client messages and interfaces as an int, 
+// make sure we never break this.  AppIds and DepotIDs also presently
+// share the same namespace, but since we'd like to change that in the future
+// I've defined it seperately here.
+typedef uint32 DepotId_t;
+const DepotId_t k_uDepotIdInvalid = 0x0;
+
+// RTime32
+// We use this 32 bit time representing real world time.
+// It offers 1 second resolution beginning on January 1, 1970 (Unix time)
+typedef uint32 RTime32;
+
+typedef uint32 CellID_t;
+const CellID_t k_uCellIDInvalid = 0xFFFFFFFF;
+
+// handle to a Steam API call
+typedef uint64 SteamAPICall_t;
+const SteamAPICall_t k_uAPICallInvalid = 0x0;
+
+typedef uint32 AccountID_t;
+
+typedef uint32 PartnerId_t;
+const PartnerId_t k_uPartnerIdInvalid = 0;
+
+// ID for a depot content manifest
+typedef uint64 ManifestId_t; 
+const ManifestId_t k_uManifestIdInvalid = 0;
+
+
+
+#endif // STEAMTYPES_H

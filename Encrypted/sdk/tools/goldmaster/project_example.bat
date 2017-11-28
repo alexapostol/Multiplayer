@@ -1,3 +1,2 @@
-U2FsdGVkX1+jNE6oCXGw9kgMflU97TFS14Nvd/nKMspW9uDIatkoU1e18koANJKq
-NqFd+ge93VjwwuEak0mt7oXdAqumihhxoUwSSu8ctCbgPKKzU5VJq9GlKlYtNNRy
-ja1WrFLAQ1WgR2ZSckav/E2IeZfBBDnU+17R1IigfNEqOUpTWnxbmcY5QxjWRFbM
+steam.exe -login <account> <password> -build_installer sku_project_example.txt <path>
+@type logs\backup_log.txt

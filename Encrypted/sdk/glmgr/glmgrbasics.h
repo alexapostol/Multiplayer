@@ -1,299 +1,508 @@
-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
-IKlmvLSLrG4UUWTtkf/bXxfT/AXXEvXdlu8deGlTR8T/X/tQGWAbqAzUJT1eABBc
-+8px7TbLEJEaobql4I6JmoQgKdqYjk6f6QiqyhQWn7hJc6icbrE1Ew0kj+zsZjrf
-OEd9br6pSr25tdmmNeZ949mwdPktk15HDV0jtI2mLSfiKWss20lm7Fr4VsHegNmh
-6mn3jR85WkW6VR47ebmwu0tCE8UPH//bh15QpdZ5cVfW9caPffKNXWW+puu7qYkH
-tURtjrv6bdrUcpwOyJvp6jsOlu3Fnn4t9149PfN2JoEGvFyTxxzS+T4If1nuQfWv
-+eXmCEx51K9EtoXFCFgfkv96jCL9+wzWpIOmDsT8VmOxtLr3Azgz7Z8BMifUosmH
-/b2keB8eXZyutuyvl27KA7pi2v9/jGIy2UTZialAKG+aGuDumvuS+gGt0QuWTTOo
-7RCesPt8QBahxzpFpf4EnZwzOdgOESIg8DwUlPUN7AvZS4QmRdYtkD0OvQhHqV8V
-KsY49Og+56kBDBixgPADMKRshhXaV+q+SWaqRYM6tErT04NXI53PU3xffyvCR4tL
-GZtRFVjjzJxBZzDl7/xorYgO12ff8us16u4QkX0i1vElol2uqRbrljASXrizGXSj
-RlrA2q9TZPa6A1UsjFtMbDVm5f53NKsR9eeQoLaR6AavSA7oyi/YPxguS2j2teEV
-lLVGi/cSp5/vyVg+bfOJ2Y6eVOz4E3HfdhkpJ8wzBXLXeh8yY3XTeRHVyGiwTSXI
-DA3qTYsJDZOhi+3TZpCCApdJnetrybDp9x0BXkWDY+zMewJRI4FIggXPMlQ03jBV
-zYAdrJMHvSEv3km6hPqSEaPrenyuftimkjnbA8OhgR/O90KxWpUknp344l6iu1Nf
-Cs3Z599M3I7zU1tuW1Qp6yBE783foa/F0lc7e7ZLENhWlZ8O4U+gH4YqAqdI1BkO
-5wZ+ufKvktmd3gres+RifaVbV7G0EdrJ1w1PdUuw2J5MHHPX3adq7u288y/I0FKd
-7L0n0brUNYKZcPQjptYDO4FwDAluDyAK4m6F0XCAx8DmbwWAA4oBpA/rZ7c+b9Xc
-+W6LGqfFR5Pw01lM6M8JLg3RMQ0bV/f9SsBXVdMMCSMngFxZWTeQwdtzfdzSJ/Bl
-W8B4KQCfQsUugR9jyAThXD6XRYpSTjLtBfKH+jCJiJZ1+U1ZY0ARcBCp15XgtT93
-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
+//============ Copyright (c) Valve Corporation, All rights reserved. ============
+//
+// glmgrbasics.h
+//	types, common headers, forward declarations, utilities
+//
+//===============================================================================
+
+#ifndef GLMBASICS_H
+#define	GLMBASICS_H
+
+#pragma once
+
+#include <string>
+#include <set>
+#include <map>
+#include <vector>
+
+#include <OpenGL/OpenGL.h>
+#include <OpenGL/gl.h>
+#include <OpenGL/glext.h>
+#include <OpenGL/CGLTypes.h>
+#include <OpenGL/CGLRenderers.h>
+#include <OpenGL/CGLCurrent.h>
+//#include <OpenGL/CGLProfiler.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <ApplicationServices/ApplicationServices.h>
+
+#include "imageformat.h"
+#include "glmdebug.h"
+
+#ifndef Assert
+#define Assert(x)
+#endif
+
+//===============================================================================
+
+// some portability shims to eliminate dependencies on partcular segments of Valve code
+
+typedef int8_t int8;
+typedef uint8_t uint8;
+typedef int16_t int16;
+typedef uint16_t uint16;
+typedef int32_t int32;
+typedef uint32_t uint32;
+typedef int64_t int64;
+typedef uint64_t uint64;
+
+class CUtlBuffer
+{
+public:
+	enum BufferFlags_t
+	{
+		TEXT_BUFFER = 0x1,				// Describes how get + put work (as strings, or binary)
+		//EXTERNAL_GROWABLE = 0x2,		// This is used w/ external buffers and causes the utlbuf to switch to reallocatable memory if an overflow happens when Putting.
+		//CONTAINS_CRLF = 0x4,			// For text buffers only, does this contain \n or \n\r?
+		//READ_ONLY = 0x8,				// For external buffers; prevents null termination from happening.
+		//AUTO_TABS_DISABLED = 0x10,	// Used to disable/enable push/pop tabs
+	};
+	
+	CUtlBuffer( int growSize = 0, int initSize = 0, int nFlags = 0 )
+	{
+		// grow size and init flags are ignored.
+		m_buf.reserve( initSize );
+	};
+	
+	CUtlBuffer( const void* pBuffer, int size, int nFlags = 0 )
+	{
+		m_buf.reserve ( size );
+		memcpy( &m_buf[0], pBuffer, size );
+	}
+
+	// This one isn't actually defined so that we catch contructors that are trying to pass a bool in as the third param.
+	CUtlBuffer( const void *pBuffer, int size, bool crap );
+
+	~CUtlBuffer()
+	{
+	}
+
+	char*	Base( void )
+	{
+		return &m_buf[0];
+	}
+	
+	uint32	Size( void )
+	{
+		return m_buf.size();
+	}
+	
+	void	EnsureCapacity( int num )
+	{
+		m_buf.resize( num );
+	}
+
+	void	AppendString( const char* pString )
+	{
+		int appendlen = strlen( pString );		// count of characters, null terminator not included
+		if (Size())
+		{
+			// append to non empty string
+			EnsureCapacity( Size() + appendlen + 1);
+			//printf("\n **(a) appending \n---\n%s\n---\n to \n---\n%s\n---\n", pString, Base() );
+			strcat( Base(), pString );			// gets NULL terminated
+		}
+		else
+		{
+			EnsureCapacity( Size() + appendlen + 1);
+			//printf("\n **(b) appending \n---\n%s\n---\n to \n---\n%s\n---\n", pString, Base() );
+			strcpy( Base(), pString );
+		}
+	}
+	
+private:
+	CUtlBuffer();
+	
+	std::vector<char> m_buf;
+};
+
+class CUtlString
+{
+public:
+	CUtlString()
+	{
+		m_str = "";
+	}
+
+	CUtlString( const char *str )
+	{
+		m_str = std::string( str );
+	}
+	
+	~CUtlString( )
+	{
+	}
+
+	const char*	String( void )
+	{
+		return m_str.c_str();
+	}
+	
+	operator const char * () { return m_str.c_str(); } //conversion operator
+	
+private:
+	
+	std::string m_str;
+};
+
+#undef ARRAYSIZE
+#define ARRAYSIZE(p)		(sizeof(p)/sizeof(p[0]))
+
+#define strcat_s(dst,lim,src) strcat(dst,src )
+
+#define V_strcat(dst,lim,src) strcat(dst,src)
+#define V_vsnprintf(a,b,c,d) vsprintf(a,c,d)		// double check this
+#define V_snprintf snprintf
+#define V_strncpy strncpy
+#define V_strcmp strcmp
+#define V_strlen strlen
+#define V_strstr strstr
+#define __cdecl
+
+#define V_memset(dst,count,val)	memset(dst,count,val)
+
+int			V_stricmp(const char *s1, const char *s2 );
+char const* V_stristr( char const* pStr, char const* pSearch );
+
+//===============================================================================
+// types
+
+	// 3-d integer box (used for texture lock/unlock etc)
+struct	GLMRegion
+{
+	int	xmin,xmax;
+	int	ymin,ymax;
+	int zmin,zmax;
+};
+
+struct GLMRect	// follows GL convention - if coming from the D3D rect you will need to fiddle the Y's
+{
+    int xmin;	// left
+    int ymin;	// bottom
+    int xmax;	// right
+    int ymax;	// top
+};
+
+// macros
+
+//#define	GLMassert(x)	assert(x)
+
+// forward decls
+class	GLMgr;				// singleton
+class	GLMContext;			// GL context
+class	CGLMContextTester;	// testing class
+class	CGLMTex;
+class	CGLMFBO;
+class	CGLMProgram;
+class	CGLMBuffer;
+
+
+// utilities
+
+typedef enum
+{
+	// D3D codes
+	eD3D_DEVTYPE,
+	eD3D_FORMAT,
+	eD3D_RTYPE,
+	eD3D_USAGE,
+	eD3D_RSTATE,	// render state
+	eD3D_SIO,		// D3D shader bytecode
+	eD3D_VTXDECLUSAGE,
+	
+	// CGL codes
+	eCGL_RENDID,
+	
+	// OpenGL error codes
+	eGL_ERROR,
+	
+	// OpenGL enums
+	eGL_ENUM,
+	eGL_RENDERER
+
+}	GLMThing_t;
+
+const char* GLMDecode( GLMThing_t type, unsigned long value );		// decode a numeric const
+const char* GLMDecodeMask( GLMThing_t type, unsigned long value );	// decode a bitmask
+
+void GLMStop( void );	// aka Debugger()
+void GLMCheckError( bool noStop = false, bool noLog= false );
+void GLMEnableTrace( bool on );
+
+//===============================================================================
+// debug channels
+
+enum EGLMDebugChannel
+{
+	ePrintf,
+	eDebugger,
+	eGLProfiler
+};
+
+#if GLMDEBUG
+	// make all these prototypes disappear in non GLMDEBUG
+	void	GLMDebugInitialize( bool forceReinit=false );
+
+	bool	GLMDetectOGLP( void );
+	bool	GLMDetectGDB( void );
+	uint	GLMDetectAvailableChannels( void );
+
+	uint	GLMDebugChannelMask( uint *newValue = NULL );
+		// note that GDB and OGLP can both come and go during run - forceCheck will allow that to be detected.
+		// mask returned is in form of 1<<n, n from EGLMDebugChannel
+#endif
+
+//===============================================================================
+// debug message flavors
+
+enum EGLMDebugFlavor
+{
+	eAllFlavors,		// 0
+	eDebugDump,			// 1 debug dump flavor								-D-
+	eTenure,			// 2 code tenures									> <
+	eComment,			// 3 one off messages								---
+	eMatrixData,		// 4 matrix data									-M-
+	eShaderData,		// 5 shader data (params)							-S-
+	eFrameBufData,		// 6 FBO data (attachments)							-F-
+	eDXStuff,			// 7 dxabstract spew								-X-
+	eAllocations,		// 8 tracking allocs and frees						-A-
+	eSlowness,			// 9 slow things happening (srgb flips..)			-Z-
+	eDefaultFlavor,		// not specified (no marker)
+	eFlavorCount
+};
+uint	GLMDebugFlavorMask( uint *newValue = NULL );
+
+//===============================================================================
+// output functions
+
+// make all these prototypes disappear in non GLMDEBUG
+#if GLMDEBUG
+		// these are unconditional outputs, they don't interrogate the string
+	void	GLMStringOut( const char *string );
+	void	GLMStringOutIndented( const char *string, int indentColumns );
+
+		// these will look at the string to guess its flavor: <, >, ---, -M-, -S- 
+	void	GLMPrintfVA( const char *fmt, va_list vargs );
+	void	GLMPrintf( const char *fmt, ... );
+
+		// these take an explicit flavor with a default value
+	void	GLMPrintStr( const char *str, EGLMDebugFlavor flavor = eDefaultFlavor );
+
+	#define	GLMPRINTTEXT_NUMBEREDLINES	0x80000000
+	void	GLMPrintText( const char *str, EGLMDebugFlavor flavor = eDefaultFlavor, uint options=0  );			// indent each newline
+
+	int		GLMIncIndent( int indentDelta );
+	int		GLMGetIndent( void );
+	void	GLMSetIndent( int indent );
+
+#endif
+
+// expose these in release now
+// Mimic PIX events so we can decorate debug spew
+void	GLMBeginPIXEvent( const char *str );
+void	GLMEndPIXEvent( void );
+
+//===============================================================================
+// other stuff
+
+#if GLMDEBUG
+inline void GLMDebugger( void )
+{
+	if (GLMDebugChannelMask() & (1<<eDebugger))
+	{
+		asm ( "int $3" );
+	}
+	
+	if (GLMDebugChannelMask() & (1<<eGLProfiler))
+	{
+		// we call an obscure GL function which we know has been breakpointed in the OGLP function list
+		static short nada[] = {0xFFFF,0xFFFF,0xFFFF,0xFFFF};
+		glColor4sv( nada );
+	}
+}
+#else
+	#define	GLMDebugger()
+#endif
+
+// helpers for CGLSetOption - no op if no profiler
+void	GLMProfilerClearTrace( void );
+void	GLMProfilerEnableTrace( bool enable );
+
+// helpers for CGLSetParameter - no op if no profiler
+void	GLMProfilerDumpState( void );
+
+
+//===============================================================================
+// classes
+
+// helper class making function tracking easier to wire up
+#if GLMDEBUG
+class GLMFuncLogger
+{
+	public:
+	
+		// simple function log
+		GLMFuncLogger( const char *funcName )
+		{
+			m_funcName = funcName;
+			m_earlyOut = false;
+			
+			GLMPrintf( ">%s", m_funcName );
+		};
+		
+		// more advanced version lets you pass args (i.e. called parameters or anything else of interest)
+		// no macro for this one, since no easy way to pass through the args as well as the funcname
+		GLMFuncLogger( const char *funcName, char *fmt, ... )
+		{
+			m_funcName = funcName;
+			m_earlyOut = false;
+
+			// this acts like GLMPrintf here
+			// all the indent policy is down in GLMPrintfVA
+			// which means we need to inject a ">" at the front of the format string to make this work... sigh.
+			
+			char modifiedFmt[2000];
+			modifiedFmt[0] = '>';
+			strcpy( modifiedFmt+1, fmt );
+			
+			va_list	vargs;
+			va_start(vargs, fmt);
+			GLMPrintfVA( modifiedFmt, vargs );
+			va_end( vargs );
+		}
+		
+		~GLMFuncLogger( )
+		{
+			if (m_earlyOut)
+			{
+				GLMPrintf( "<%s (early out)", m_funcName );
+			}
+			else
+			{
+				GLMPrintf( "<%s", m_funcName );
+			}
+		};
+	
+		void EarlyOut( void )
+		{
+			m_earlyOut = true;
+		};
+		
+		const char *m_funcName;				// set at construction time
+		bool m_earlyOut;
+};
+
+// handy macro to go with the function tracking class
+#define	GLM_FUNC			GLMFuncLogger _logger_ ( __FUNCTION__ )
+#else
+#define	GLM_FUNC
+#endif
+
+
+// class to keep an in-memory mirror of a file which may be getting edited during run
+class CGLMFileMirror
+{
+public:
+	CGLMFileMirror( char *fullpath );		// just associates mirror with file. if file exists it will be read.
+											//if non existent it will be created with size zero
+	~CGLMFileMirror( );
+	
+	bool		HasData( void );								// see if data avail
+	void		GetData( char **dataPtr, uint *dataSizePtr );	// read it out
+	void		SetData( char *data, uint dataSize );			// put data in (and write it to disk)
+	bool		PollForChanges( void );							// check disk copy.  If different, read it back in and return true.
+	
+	void		UpdateStatInfo( void );		// make sure stat info is current for our file
+	void		ReadFile( void );
+	void		WriteFile( void );
+
+	void		OpenInEditor( bool foreground=false );			// pass TRUE if you would like the editor to pop to foreground
+	
+	/// how about a "wait for change" method..
+
+	char		*m_path;	// fullpath to file
+	bool		m_exists;
+	struct stat	m_stat;		// stat results for the file (last time checked)
+	
+	char		*m_data;	// content of file
+	uint		m_size;		// length of content
+
+};
+
+// class based on the file mirror, that makes it easy to edit them outside the app.
+
+// it receives an initial block of text from the engine, and hashes it. ("orig")
+// it munges it by duplicating all the text after the "!!" line, and appending it in commented form. ("munged")
+// a mirror file is activated, using a filename based on the hash from the orig text.
+// if there is already content on disk matching that filename, use that content *unless* the 'blitz' parameter is set.
+//		(i.e. engine is instructing this subsystem to wipe out any old/modified variants of the text)
+
+#ifndef MD5_DIGEST_LENGTH
+#define MD5_DIGEST_LENGTH 16  
+#endif
+
+class CGLMEditableTextItem
+{
+public:
+					CGLMEditableTextItem( char *text, uint size, bool forceOverwrite, char *prefix, char *suffix = NULL );		// create a text blob from text source, optional filename suffix
+					~CGLMEditableTextItem( );
+
+	bool			HasData( void );
+	bool			PollForChanges( void );									// return true if stale i.e. you need to get a new edition
+	void			GetCurrentText( char **textOut, uint *sizeOut );		// query for read access to the active blob (could be the original, could be external edited copy)
+	void			OpenInEditor( bool foreground=false );									// call user attention to this text
+
+	// internal methods
+	void			GenHashOfOrigText( void );
+	void			GenBaseNameAndFullPath( char *prefix, char *suffix );
+	void			GenMungedText( bool fromMirror );
+
+	// members
+	// orig
+	uint			m_origSize;
+	char			*m_origText;						// what was submitted
+	unsigned char	m_origDigest[MD5_DIGEST_LENGTH];	// digest of what was submitted
+	
+	// munged
+	uint			m_mungedSize;
+	char			*m_mungedText;						// re-processed edition, initial content submission to the file mirror
+
+	// mirror
+	char			*m_mirrorBaseName;					// generated from the hash of the orig text, plus the label / prefix
+	char			*m_mirrorFullPath;					// base name 
+	CGLMFileMirror	*m_mirror;							// file mirror itself.  holds "official" copy for GetCurrentText to return.
+};
+
+
+// debug font
+extern unsigned char g_glmDebugFontMap[16384];
+
+// class for cracking multi-part text blobs
+// sections are demarcated by beginning-of-line markers submitted in a table by the caller
+
+struct GLMTextSection
+{
+	int		m_markerIndex;		// based on table of markers passed in to constructor
+	uint	m_textOffset;		// where is the text - offset
+	int		m_textLength;		// how big is the section
+};
+
+class CGLMTextSectioner
+{
+public:
+					CGLMTextSectioner( const char *text, int textSize, const char **markers );		// constructor finds all the sections
+					~CGLMTextSectioner( );
+					
+	int				Count( void );			// how many sections found
+	void			GetSection( int index, uint *offsetOut, uint *lengthOut, int *markerIndexOut );
+		// find section, size, what marker
+		// note that more than one section can be marked similarly.
+		// so policy isn't made here, you walk the sections and decide what to do if there are dupes.
+	
+	//members
+	
+	//section table
+	std::vector< GLMTextSection >	m_sectionTable;
+};
+
+#endif

@@ -1,37 +1,67 @@
-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
+//============ Copyright (c) Valve Corporation, All rights reserved. ============
+
+#ifndef ISTEAMMUSIC_H
+#define ISTEAMMUSIC_H
+#ifdef _WIN32
+#pragma once
+#endif
+
+#include "isteamclient.h"
+
+//-----------------------------------------------------------------------------
+// Purpose: 
+//-----------------------------------------------------------------------------
+enum AudioPlayback_Status
+{
+	AudioPlayback_Undefined = 0, 
+	AudioPlayback_Playing = 1,
+	AudioPlayback_Paused = 2,
+	AudioPlayback_Idle = 3
+};
+
+
+//-----------------------------------------------------------------------------
+// Purpose: Functions to control music playback in the steam client
+//-----------------------------------------------------------------------------
+class ISteamMusic
+{
+public:
+	virtual bool BIsEnabled() = 0;
+	virtual bool BIsPlaying() = 0;
+	
+	virtual AudioPlayback_Status GetPlaybackStatus() = 0; 
+
+	virtual void Play() = 0;
+	virtual void Pause() = 0;
+	virtual void PlayPrevious() = 0;
+	virtual void PlayNext() = 0;
+
+	// volume is between 0.0 and 1.0
+	virtual void SetVolume( float flVolume ) = 0;
+	virtual float GetVolume() = 0;
+	
+};
+
+#define STEAMMUSIC_INTERFACE_VERSION "STEAMMUSIC_INTERFACE_VERSION001"
+
+// callbacks
+#if defined( VALVE_CALLBACK_PACK_SMALL )
+#pragma pack( push, 4 )
+#elif defined( VALVE_CALLBACK_PACK_LARGE )
+#pragma pack( push, 8 )
+#else
+#error isteamclient.h must be included
+#endif 
+
+
+DEFINE_CALLBACK( PlaybackStatusHasChanged_t, k_iSteamMusicCallbacks + 1 )
+END_DEFINE_CALLBACK_0()
+
+DEFINE_CALLBACK( VolumeHasChanged_t, k_iSteamMusicCallbacks + 2 )
+ 	CALLBACK_MEMBER( 0,	float, m_flNewVolume )
+END_DEFINE_CALLBACK_1()
+
+#pragma pack( pop )
+
+
+#endif // #define ISTEAMMUSIC_H

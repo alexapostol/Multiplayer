@@ -1,205 +1,275 @@
-U2FsdGVkX1+jNE6oCXGw9mhUM8qI82w2qBv221UBx4Tk39llIMJ2s1pd0JeIKvEL
-vC6ydihi38YKMl7XIIvdY1KmeqipzE2GM4W917/iV+OhDT8oZGwtK/gErFMyWnyB
-Cnd1qZgkZQZpKb47kVTIFY47//F4QvgMoZKUvq1wojOSFv775NV5mo4GQl1rojQq
-o2BJAOrYxCFBwZlkiJAaVbJyCzKFKVWtk5dZsftFmQvQcCAN7pjklJHFpJUOOP4z
-DgXHGTS0Yo2RgLwEPJHWZJKdkecu7F8cFa9J8YLz/ZBBp1mA1+TBlyUK4sNy6mCd
-YxU+AQInHLxhf7F8DiUjf+D9AK3kUNTc3vMsMyQUBQYxTpMfb0BRBNemwHdEfEID
-KBGgodn04vAW4DEJkbW3lQ+Fcmgb0s3OMedRmeaw3TICADIlzfbLWkURwcRTJWTm
-toOJTBm36A/UPZxPqtN5E/IIllSbBZguJkQCoT+HYZZKkmigutu1NmWmOSPdj3FV
-zojgbSrjER/bYpQ6w9IK4cONhPA15ClB9lU/Huq8uD4ooqPrGGlufgLLfUg/B5zH
-DwjMkjzHnYWwDN5hVg5SalExJfOngJWkcHGURsY0LKiWHdonYWf8Lcvk+nrIL330
-ozyT6jC3XaYgXa/xMLSU8NpujR81D1dOOeky/TYqTigKXMfSc7/G2JbpMhUSGs6U
-FYVfES5rX/BdVW3SGXf9sqkpkdIAVbVhUQFpUqLtJdnxxtVUZHkuo0T1TJOYA6m8
-kFyXI0DwjU/QRmirFzjZvcmVW529RjHzN9sepkJTt58lcxK/KhVhVbRowa2EZ7ri
-iarL5hAcn1r9K65q2Kykupj0oitYr/mkiaZaBpaJONEeuqtQuBbmzv3OsS1CFkoK
-ww/XHgwVdPK+tb6PFVk6nt0efqt152O/S1uR3sqByyF9Ku+du6k2eRsgPxTTEqII
-Z3nur8NnGtofMP6eqXfGdgfJOZdQEcnnjLF7aQmszHRoIjcx8WvOF+wSuZkqdyFE
-e3YRJeU18mau/bcTYLH9ONcC1+ZOB7mLKefcUnyk07keHTkN6HLM1mmYQcaJMWt9
-ZDy4JUB4GtmtqSWK2OnVIrfb97GG1Cob6kSV3GSpEVhg9TfYvlx306R5P86spvCh
-O8998s7wz8cuEMdN5NXKbNWCyZVkehcTDGnXJcVc8HjoFe0s81kiJeUWxquD0hjs
-fXkjMi3zvEAvL8jVbHaB36roWAMXJ6DlCQPCDck42aBhTfI1WrW1UAkaRy+KQ7x3
-66Jrh6/NiBQNnu8EbaTamzNNUa3KGxO305QHRmA4F5snfNNvz5QJNbCS12zC+WEt
-/V2817i/+HuUdJJIGr/1YqrqXK7y59S83kutIwSMPEb31onJ34Mjo9htCeyrpihn
-rtZiweEJ+hy005luL4i7aW4Zi0pdcjrr9KByvB03Abn4UTzEGP96TMRD8YVuu1J4
-Yj3E/tl6Qty+8P+FKT6yfKu+yMPtRUPirMFoycG0jz3aUyuEgNSGx04d6W44vfmh
-Fbi/FFI08Ol7+r6TWz77wrQsRUl+SboAG1VB/jO4/YbD8T6kQku53zMzfKPab0yk
-pI0/CBmLHVKOZrYq8l1X4UXxymRC/4sgDzH2TKC1dLgiyH6i6DJmfCzfqArWSwTO
-p/776NcdYX8rtn5wESS1Jv4yM85UKzHVAhHrv3L/xbj/SWbAUT/Z+E0N1cTJf+q3
-TniJ+bI9hBl+ytuT0Ev1wyy2urOS1wXJYp+veZf/tZZuXno6JQ3xbAUAIJXw7UDr
-EyKtUVomzS2tP6hGR7fKfymBt/FT+IG5VA+YCi1ebq+V6Ob7+Ar5h+hzT3crxQ71
-1aIqW/CmRVAuNmcDIR12elK83o2JL1CnGel8NWryFx/9xVdTPNWz/fFksXJivlYY
-mYoLzZ+FyTJ/Yu8MFJVseakb7kbnvAJ8dInJQpCrkv75fBea020shYW+KybcaPSu
-RMXaIi76duk4Rdo+QBqAh+P/5TXcTOE05cyBmY2wFKOfZjMBz0mgGYrI2zlkrHKL
-pmaDHWN/kvVJDxzcALiQ1J4qQG7LJHUcdIGNyemL5O3HQGWvG0fOimVXLUtahJyV
-A/75R0Fo0Qd4DfA0A4KqSpQY7lZNCHM/AKtXyvZv00WeuI70qd4t+PhMFW7VfmSe
-vyCbJu9JcI3jms65wLNV378C0mqZVRKr/agSZKA9tw6HwDPo9pPZFEeG6ZkLHfoK
-y6X/S55zsbEj2Rh4PoaYFtNxyqJkZFhVJRvvDnvaySli1fWObHmgsv9Orbcr0UhZ
-+TenjlFjQUq5a+cW0QvvPRQJJKdOnZaFnLw4oagoSYxFMZ9igM5h86BKOtCgprvW
-Ia9yXPW6YQJFkQ6kZKbAjJLGxLLixE/dmr/koL+gw0x8U/JVsGPvSGt5mdAJNsE2
-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
-y/GS/4+YZJX8zjMddLRD9g==
+//============ Copyright (c) Valve Corporation, All rights reserved. ============
+//
+// glmdisplay.h
+// display related stuff - used by both GLMgr and the CocoaMgr
+//
+//===============================================================================
+
+#ifndef GLMDISPLAY_H
+#define	GLMDISPLAY_H
+
+#pragma once
+
+#include <OpenGL/OpenGL.h>
+#include <OpenGL/gl.h>
+#include <OpenGL/glext.h>
+#include <OpenGL/CGLTypes.h>
+#include <OpenGL/CGLRenderers.h>
+#include <OpenGL/CGLCurrent.h>
+#include <ApplicationServices/ApplicationServices.h>
+
+#include "glmgrbasics.h"
+
+typedef void _PseudoNSGLContext;					// aka NSOpenGLContext
+typedef _PseudoNSGLContext	*PseudoNSGLContextPtr;
+
+struct GLMDisplayModeInfoFields
+{
+	uint	m_modePixelWidth;
+	uint	m_modePixelHeight;
+	uint	m_modeRefreshHz;
+	// are we even going to talk about bit depth... not yet
+};
+
+struct GLMDisplayInfoFields
+{
+	CGDirectDisplayID				m_cgDisplayID;
+	CGOpenGLDisplayMask				m_glDisplayMask;		// result of CGDisplayIDToOpenGLDisplayMask on the cg_displayID.
+
+	uint							m_displayPixelWidth;
+	uint							m_displayPixelHeight;	
+};
+
+struct GLMRendererInfoFields
+{
+	/*properties of interest and their desired values.
+	
+	   kCGLRPFullScreen          =  54,		true
+	   kCGLRPAccelerated         =  73,		true
+	   kCGLRPWindow              =  80,		true
+
+	   kCGLRPRendererID          =  70,		informational
+	   kCGLRPDisplayMask         =  84,		informational
+	   kCGLRPBufferModes         = 100,		informational
+	   kCGLRPColorModes          = 103,		informational
+	   kCGLRPAccumModes          = 104,		informational
+	   kCGLRPDepthModes          = 105,		informational
+	   kCGLRPStencilModes        = 106,		informational
+	   kCGLRPMaxAuxBuffers       = 107,		informational
+	   kCGLRPMaxSampleBuffers    = 108,		informational
+	   kCGLRPMaxSamples          = 109,		informational
+	   kCGLRPSampleModes         = 110,		informational
+	   kCGLRPSampleAlpha         = 111,		informational
+	   kCGLRPVideoMemory         = 120,		informational
+	   kCGLRPTextureMemory       = 121,		informational
+	   kCGLRPRendererCount       = 128		number of renderers in the CGLRendererInfoObj under examination
+
+	   kCGLRPOffScreen           =  53,		D/C
+	   kCGLRPRobust              =  75,		FALSE or D/C - aka we're asking for no-fallback
+	   kCGLRPBackingStore        =  76,		D/C
+	   kCGLRPMPSafe              =  78,		D/C
+	   kCGLRPMultiScreen         =  81,		D/C
+	   kCGLRPCompliant           =  83,		D/C
+	*/
+
+
+	//--------------------------- info we have from CGL renderer queries, IOKit, Gestalt
+	//--------------------------- these are set up in the displayDB by CocoaMgr
+	GLint	m_fullscreen;
+	GLint	m_accelerated;
+	GLint	m_windowed;
+	
+	GLint	m_rendererID;
+	GLint	m_displayMask;
+	GLint	m_bufferModes;
+	GLint	m_colorModes;
+	GLint	m_accumModes;
+	GLint	m_depthModes;
+	GLint	m_stencilModes;
+
+	GLint	m_maxAuxBuffers;
+	GLint	m_maxSampleBuffers;
+	GLint	m_maxSamples;
+	GLint	m_sampleModes;
+	GLint	m_sampleAlpha;
+
+	GLint	m_vidMemory;
+	GLint	m_texMemory;
+	
+	uint	m_pciVendorID;
+	uint	m_pciDeviceID;
+	char	m_pciModelString[64];
+	char	m_driverInfoString[64];
+
+	//--------------------------- OS version related - set up by CocoaMgr
+
+	// OS version found
+	uint	m_osComboVersion;			// 0x00XXYYZZ : XX major, YY minor, ZZ minor minor : 10.6.3 --> 0x000A0603.  10.5.8 --> 0x000A0508.
+		
+	//--------------------------- shorthands - also set up by CocoaMgr - driven by vendorid / deviceid
+
+	bool	m_ati;
+	bool	m_atiR5xx;
+	bool	m_atiR6xx;
+	bool	m_atiR7xx;
+	bool	m_atiR8xx;
+	bool	m_atiNewer;
+	
+	bool	m_intel;
+	bool	m_intel95x;
+	bool	m_intel3100;
+	bool	m_intelNewer;
+
+	bool	m_nv;
+	bool	m_nvG7x;
+	bool	m_nvG8x;
+	bool	m_nvNewer;
+	
+	//--------------------------- context query results - left blank in the display DB - but valid in a GLMContext (call ctx->Caps() to get a const ref)
+	
+	// booleans	
+	bool	m_hasGammaWrites;			// aka glGetBooleanv(GL_FRAMEBUFFER_SRGB_CAPABLE_EXT) / glEnable(GL_FRAMEBUFFER_SRGB_EXT)
+	bool	m_hasMixedAttachmentSizes;	// aka ARB_fbo in 10.6.3 - test for min OS vers, then exported ext string
+	bool	m_hasBGRA;					// aka GL_BGRA vertex attribs in 10.6.3 -  - test for min OS vers, then exported ext string
+	bool	m_hasNewFullscreenMode;		// aka 10.6.x "big window" fullscreen mode
+	bool	m_hasNativeClipVertexMode;	// aka GLSL gl_ClipVertex does not fall back to SW- OS version and folklore-based
+	bool	m_hasOcclusionQuery;		// occlusion query: do you speak it ?!
+	bool	m_hasFramebufferBlit;		// framebuffer blit: know what I'm sayin?!
+	bool	m_hasPerfPackage1;			// means new MTGL, fast OQ, fast uniform upload, NV can resolve flipped (late summer 2010 post 10.6.4 update)
+	
+	// counts
+	int		m_maxAniso;					// aniso limit - context query
+	
+	// other exts
+	bool	m_hasBindableUniforms;
+	bool	m_hasUniformBuffers;
+	
+	// runtime options that aren't negotiable once set
+	bool	m_hasDualShaders;			// must supply CLI arg "-glmdualshaders" or we go GLSL only
+
+	//--------------------------- " can'ts " - specific problems that need to be worked around
+
+	bool	m_cantBlitReliably;		// Intel chipsets have problems blitting sRGB sometimes
+	bool	m_cantAttachSRGB;		// NV G8x on 10.5.8 can't have srgb tex on FBO color - separate issue from hasGammaWrites
+	bool	m_cantResolveFlipped;	// happens on NV in 10.6.4 and prior - console variable "gl_can_resolve_flipped" can overrule
+	bool	m_cantResolveScaled;	// happens everywhere per GL spec but may be relaxed some day - console variable "gl_can_resolve_scaled" can overrule
+	bool	m_costlyGammaFlips;		// this means that sRGB sampling state affects shader code gen, resulting in state-dependent code regen
+
+
+	//--------------------------- " bads " - known bad drivers
+	bool	m_badDriver1064NV;		// this is the bad NVIDIA driver on 10.6.4 - stutter, tex corruption, black screen issues
+};
+
+////////////////////////////////////////////////////////////////////////////////////////
+
+
+// this stuff is all sitting in glmgrcocoa.mm since it needs to make ObjC calls.
+
+//===============================================================================
+
+// modes, displays, and renderers
+// think of renderers as being at the top of a tree.
+// each renderer has displays hanging off of it.
+// each display has modes hanging off of it.
+// the tree is populated on demand and then queried as needed.
+
+//===============================================================================
+
+// GLMDisplayModeInfoFields is in glmdisplay.h
+
+class GLMDisplayMode
+{
+public:
+	GLMDisplayModeInfoFields	m_info;
+	
+	GLMDisplayMode( uint width, uint height, uint refreshHz );
+	~GLMDisplayMode( void );
+
+	void	Dump( int which );
+};
+
+//===============================================================================
+
+// GLMDisplayInfoFields is in glmdisplay.h
+
+class GLMDisplayInfo
+{
+public:
+	GLMDisplayInfoFields			m_info;
+	std::vector< GLMDisplayMode* >	*m_modes;				// starts out NULL, set by PopulateModes
+
+	GLMDisplayInfo( CGDirectDisplayID displayID, CGOpenGLDisplayMask displayMask );
+	~GLMDisplayInfo( void );
+	
+	void	PopulateModes( void );
+
+	void	Dump( int which );
+};
+
+//===============================================================================
+
+// GLMRendererInfoFields is in glmdisplay.h
+
+class GLMRendererInfo
+{
+public:
+	GLMRendererInfoFields			m_info;
+	std::vector< GLMDisplayInfo* >	*m_displays;			// starts out NULL, set by PopulateDisplays
+
+	GLMRendererInfo			( GLMRendererInfoFields *info );
+	~GLMRendererInfo		( void );
+
+	void	PopulateDisplays( void );
+	void	Dump( int which );
+};
+
+//===============================================================================
+
+// this is just a tuple describing fake adapters which are really renderer/display pairings.
+// dxabstract bridges the gap between the d3d adapter-centric world and the GL renderer+display world.
+// this makes it straightforward to handle cases like two video cards with two displays on one, and one on the other -
+// you get three fake adapters which represent each useful screen.
+
+// the constraint that dxa will have to follow though, is that if the user wants to change their 
+// display selection for full screen, they would only be able to pick on that has the same underlying renderer.
+// can't change fakeAdapter from one to another with different GL renderer under it.  Screen hop but no card hop.
+
+struct GLMFakeAdapter
+{
+	int		m_rendererIndex;
+	int		m_displayIndex;
+};
+
+class GLMDisplayDB
+{
+public:
+	std::vector< GLMRendererInfo* >		*m_renderers;			// starts out NULL, set by PopulateRenderers
+
+	std::vector< GLMFakeAdapter >		m_fakeAdapters;
+	
+	GLMDisplayDB	( void );
+	~GLMDisplayDB	( void );	
+
+	virtual void	PopulateRenderers( void );
+	virtual void	PopulateFakeAdapters( uint realRendererIndex );		// fake adapters = one real adapter times however many displays are on it
+	virtual void	Populate( void );
+	
+	// The info-get functions return false on success.
+	virtual	int		GetFakeAdapterCount( void );
+	virtual	bool	GetFakeAdapterInfo( int fakeAdapterIndex, int *rendererOut, int *displayOut, GLMRendererInfoFields *rendererInfoOut, GLMDisplayInfoFields *displayInfoOut );
+	
+	virtual	int		GetRendererCount( void );
+	virtual	bool	GetRendererInfo( int rendererIndex, GLMRendererInfoFields *infoOut );
+	
+	virtual	int		GetDisplayCount( int rendererIndex );
+	virtual	bool	GetDisplayInfo( int rendererIndex, int displayIndex, GLMDisplayInfoFields *infoOut );
+
+	virtual	int		GetModeCount( int rendererIndex, int displayIndex );
+	virtual	bool	GetModeInfo( int rendererIndex, int displayIndex, int modeIndex, GLMDisplayModeInfoFields *infoOut );
+	
+	virtual	void	Dump( void );
+};
+
+
+
+#endif

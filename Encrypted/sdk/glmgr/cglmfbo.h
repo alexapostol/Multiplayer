@@ -1,55 +1,91 @@
-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
-qKFdq8XBToOKqaiJ3ZTeAg==
+//============ Copyright (c) Valve Corporation, All rights reserved. ============
+//
+// cglmfbo.h
+//	GLMgr FBO's (render targets)
+//
+//===============================================================================
+
+#ifndef CGLMFBO_H
+#define	CGLMFBO_H
+
+#pragma once
+
+#include "cglmtex.h"
+
+// good FBO references / recaps
+// http://www.songho.ca/opengl/gl_fbo.html
+// http://www.gamedev.net/reference/articles/article2331.asp
+
+// ext links
+
+// http://www.opengl.org/registry/specs/EXT/framebuffer_object.txt
+// http://www.opengl.org/registry/specs/EXT/framebuffer_multisample.txt
+
+//===============================================================================
+
+// tokens not in the SDK headers
+
+#ifndef	GL_DEPTH_STENCIL_ATTACHMENT_EXT
+	#define GL_DEPTH_STENCIL_ATTACHMENT_EXT 0x84F9
+#endif
+
+//===============================================================================
+
+// forward declarations
+
+class	GLMContext;
+
+// implicitly 16 maximum color attachments possible
+enum EGLMFBOAttachment {
+	kAttColor0,		kAttColor1,		kAttColor2,		kAttColor3,
+	kAttColor4,		kAttColor5,		kAttColor6,		kAttColor7,
+	kAttColor8,		kAttColor9,		kAttColor10,	kAttColor11,
+	kAttColor12,	kAttColor13,	kAttColor14,	kAttColor15,
+	kAttDepth,		kAttStencil,	kAttDepthStencil,
+	kAttCount
+};
+
+struct GLMFBOTexAttachParams
+{	
+	CGLMTex				*m_tex;
+	int					m_face;		// keep zero if not cube map
+	int					m_mip;		// keep zero if notmip mapped
+	int					m_zslice;	// keep zero if not a 3D tex
+};
+
+class CGLMFBO
+{
+
+public:
+
+protected:
+	friend class GLMContext;			// only GLMContext can make CGLMFBO objects
+	friend class GLMTester;
+	friend class CGLMTex;
+	
+	friend class IDirect3D9;
+	friend class IDirect3DDevice9;
+		
+			CGLMFBO( GLMContext *ctx );
+			~CGLMFBO( );	
+
+	void	TexAttach( GLMFBOTexAttachParams *params, EGLMFBOAttachment attachIndex, GLenum fboBindPoint = GL_FRAMEBUFFER_EXT );
+	void	TexDetach( EGLMFBOAttachment attachIndex, GLenum fboBindPoint = GL_FRAMEBUFFER_EXT );
+		// you can also pass GL_READ_FRAMEBUFFER_EXT or GL_DRAW_FRAMEBUFFER_EXT to selectively bind the receiving FBO to one or the other.
+
+	void	TexScrub( CGLMTex *tex );
+		// search and destroy any attachment for the named texture
+	
+	bool	IsReady( void );				// aka FBO completeness check - ready to draw
+	
+	GLMContext				*m_ctx;			// link back to parent context
+
+	GLuint					m_name;			// name of this FBO in the context
+	
+	GLMFBOTexAttachParams	m_attach[ kAttCount ];	// indexed by EGLMFBOAttachment
+	
+	int						m_sizeX,m_sizeY;
+};	
+
+
+#endif

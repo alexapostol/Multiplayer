@@ -1,3 +1,1 @@
-U2FsdGVkX1+jNE6oCXGw9hw7SdIbZk2NfzjpO6UVLP9/1gpWoWMTOWJWbGxynt1J
-Ei4qH8wg7JkcoAhf5qn4MQbHJFd0cJ83H1kkPTztRoH1LAYzjDYfFxGtMhICA2uN
-/QyMUzV6DSXYTjkDiS7ikQ==
+run_build.bat shows how to run a Steam content build for AppID 1000 which has one depot 1001.

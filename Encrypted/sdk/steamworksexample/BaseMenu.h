@@ -1,145 +1,248 @@
-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
+//========= Copyright (c) 1996-2008, Valve LLC, All rights reserved. ============
+//
+// Purpose: Base class for various game menu screens
+//
+// $NoKeywords: $
+//=============================================================================
+
+#ifndef BASEMENU_H
+#define BASEMENU_H
+
+#include <string>
+#include <vector>
+#include "GameEngine.h"
+#include "SpaceWar.h"
+#include "SpaceWarClient.h"
+#include "steam/isteamcontroller.h"
+
+#define MENU_FONT_HEIGHT 24
+#define MENU_ITEM_PADDING 12
+
+extern HGAMEFONT g_hMenuFont;
+extern uint64 g_ulLastReturnKeyTick;
+extern uint64 g_ulLastKeyDownTick;
+extern uint64 g_ulLastKeyUpTick;
+
+template <class T> class CBaseMenu
+{
+public:
+	// Typedef for menu items
+	typedef std::pair<std::string, T> MenuItem_t;
+
+	// Constructor
+	CBaseMenu( IGameEngine *pGameEngine )
+	{
+		m_pGameEngine = pGameEngine;
+
+		m_uSelectedItem = 0;
+		m_bSelectionPushed = false;
+
+		if ( !g_hMenuFont )
+		{
+			g_hMenuFont = pGameEngine->HCreateFont( MENU_FONT_HEIGHT, FW_BOLD, false, "Arial" );
+			if ( !g_hMenuFont )
+				OutputDebugString( "Menu font was not created properly, text won't draw\n" );
+		}
+
+	}
+
+	// Destructor
+	virtual ~CBaseMenu() { }
+
+	// Sets a heading for the menu
+	void SetHeading( const char *pchHeading )
+	{
+		m_sHeading = pchHeading;
+	}
+
+	// Clear all menu entries
+	void ClearMenuItems() 
+	{
+		m_VecMenuItems.clear();
+		m_uSelectedItem = 0;
+	}
+
+	// Add a menu item to the menu
+	void AddMenuItem( MenuItem_t item )
+	{
+		m_VecMenuItems.push_back( item );
+	}
+
+	void PushSelectedItem()
+	{
+		if ( m_VecMenuItems.size() )
+		{
+			m_bSelectionPushed = true;
+			m_selection = m_VecMenuItems[m_uSelectedItem].second;
+		}
+	}
+
+	void PopSelectedItem()
+	{
+		if ( m_bSelectionPushed )
+		{
+			m_bSelectionPushed = false;
+
+			// find the item and set it as selected if it exists
+			for ( unsigned int i = 0; i < m_VecMenuItems.size(); i++ )
+			{
+				if ( !memcmp( &m_VecMenuItems[i].second, &m_selection, sizeof( m_selection ) ) )
+				{
+					m_uSelectedItem = i;
+					break;
+				}
+			}
+		}
+	}
+
+	// Run a frame + render
+	void RunFrame()
+	{
+		// Note: The below code uses globals that are shared across all menus to avoid double
+		// key press registration, this is so that when you do something like hit return in the pause 
+		// menu to "go back to main menu" you don't end up immediately registering a return in the
+		// main menu afterwards.
+
+		// check if the enter key is down, if it is take action
+		if ( m_pGameEngine->BIsKeyDown( VK_RETURN ) || 
+			m_pGameEngine->BIsControllerActionActive( eControllerDigitalAction_MenuSelect ) )
+		{
+			uint64 ulCurrentTickCount = m_pGameEngine->GetGameTickCount();
+			if ( ulCurrentTickCount - 220 > g_ulLastReturnKeyTick )
+			{
+				g_ulLastReturnKeyTick = ulCurrentTickCount;
+				if ( m_uSelectedItem < m_VecMenuItems.size() )
+				{
+					SpaceWarClient()->OnMenuSelection( m_VecMenuItems[m_uSelectedItem].second );
+					return;
+				}
+			}
+		}
+		// Check if we need to change the selected menu item
+		else if ( m_pGameEngine->BIsKeyDown( VK_DOWN ) || 
+			m_pGameEngine->BIsControllerActionActive( eControllerDigitalAction_MenuDown ) )
+		{
+			uint64 ulCurrentTickCount = m_pGameEngine->GetGameTickCount();
+			if ( ulCurrentTickCount - 140 > g_ulLastKeyDownTick )
+			{
+				g_ulLastKeyDownTick = ulCurrentTickCount;
+				if ( m_uSelectedItem < m_VecMenuItems.size() - 1 )
+					m_uSelectedItem++;
+				else
+					m_uSelectedItem = 0;
+			}
+		}
+		else if ( m_pGameEngine->BIsKeyDown( VK_UP ) || 
+			m_pGameEngine->BIsControllerActionActive( eControllerDigitalAction_MenuUp ) )
+		{
+			uint64 ulCurrentTickCount = m_pGameEngine->GetGameTickCount();
+			if ( ulCurrentTickCount - 140 > g_ulLastKeyUpTick )
+			{
+				g_ulLastKeyUpTick = ulCurrentTickCount;
+				if ( m_uSelectedItem > 0 )
+					m_uSelectedItem--;
+				else
+					m_uSelectedItem = (uint32)m_VecMenuItems.size() - 1;
+			}
+		}
+
+		Render();
+	}
+
+	// Render the menu
+	virtual void Render()
+	{
+		const int32 iMaxMenuItems = 14;
+		int32 iNumItems = (int32)m_VecMenuItems.size();
+		uint32 uBoxHeight = MIN( iNumItems, iMaxMenuItems ) * ( MENU_FONT_HEIGHT + MENU_ITEM_PADDING );
+		uint32 yPos = m_pGameEngine->GetViewportHeight()/2 - uBoxHeight/2;
+
+		RECT rect;
+		rect.top = yPos;
+		rect.bottom = yPos + MENU_FONT_HEIGHT + MENU_ITEM_PADDING;
+		rect.left = 0;
+		rect.right = m_pGameEngine->GetViewportWidth();
+		char rgchBuffer[256];
+
+		if ( m_sHeading.length() )
+		{
+			DWORD dwColor = D3DCOLOR_ARGB( 255, 255, 128, 128 );
+			RECT rectHeader;
+			rectHeader.top = 10;
+			rectHeader.bottom = rectHeader.top + MENU_FONT_HEIGHT + ( MENU_ITEM_PADDING * 2 );
+			rectHeader.left = 0;
+			rectHeader.right = m_pGameEngine->GetViewportWidth();
+			m_pGameEngine->BDrawString( g_hMenuFont, rectHeader, dwColor, TEXTPOS_CENTER|TEXTPOS_VCENTER, m_sHeading.c_str() );
+		}
+
+		int32 iStartItem = 0;
+		int32 iEndItem = iNumItems;
+		if ( iNumItems > iMaxMenuItems )
+		{
+			iStartItem = MAX( (int32)m_uSelectedItem - iMaxMenuItems/2, 0 );
+			iEndItem = MIN( iStartItem + iMaxMenuItems, iNumItems );
+		}
+
+		if ( iStartItem > 0 )
+		{
+			// Draw ... Scroll Up ... 
+			DWORD dwColor = D3DCOLOR_ARGB( 255, 255, 255, 255 );
+			m_pGameEngine->BDrawString( g_hMenuFont, rect, dwColor, TEXTPOS_CENTER|TEXTPOS_VCENTER, "... Scroll Up ..." );
+
+			rect.top = rect.bottom;
+			rect.bottom += MENU_FONT_HEIGHT + MENU_ITEM_PADDING;
+		}
+
+		for( int32 i=iStartItem; i<iEndItem; ++i )
+		{
+			// Empty strings can be used to space menus, they don't get drawn or selected
+			if ( strlen( m_VecMenuItems[i].first.c_str() ) > 0 )
+			{
+				DWORD dwColor;
+				if ( i == m_uSelectedItem )
+				{
+					dwColor = D3DCOLOR_ARGB( 255, 25, 200, 25 );
+					sprintf_safe( rgchBuffer, "{ %s }", m_VecMenuItems[i].first.c_str() );
+				}
+				else
+				{
+					dwColor = D3DCOLOR_ARGB( 255, 255, 255, 255 );
+					sprintf_safe( rgchBuffer, "%s", m_VecMenuItems[i].first.c_str() );
+				}
+				m_pGameEngine->BDrawString( g_hMenuFont, rect, dwColor, TEXTPOS_CENTER|TEXTPOS_VCENTER, rgchBuffer );
+			}
+
+			rect.top = rect.bottom;
+			rect.bottom += MENU_FONT_HEIGHT + MENU_ITEM_PADDING;
+		}
+
+		if ( iNumItems > iEndItem )
+		{
+			// Draw ... Scroll Down ... 
+			DWORD dwColor = D3DCOLOR_ARGB( 255, 255, 255, 255 );
+			m_pGameEngine->BDrawString( g_hMenuFont, rect, dwColor, TEXTPOS_CENTER|TEXTPOS_VCENTER, "... Scroll Down ..." );
+
+			rect.top = rect.bottom;
+			rect.bottom += MENU_FONT_HEIGHT + MENU_ITEM_PADDING;
+		}
+	}
+
+private:
+	// Game engine instance
+	IGameEngine *m_pGameEngine;
+
+	// Heading
+	std::string m_sHeading;
+
+	// Vector of menu options
+	std::vector< MenuItem_t > m_VecMenuItems;
+
+	// Currently selected item index
+	uint32 m_uSelectedItem;
+
+	// pushed selection
+	bool m_bSelectionPushed;
+	T m_selection;
+};
+
+#endif // MAINMENU_H
