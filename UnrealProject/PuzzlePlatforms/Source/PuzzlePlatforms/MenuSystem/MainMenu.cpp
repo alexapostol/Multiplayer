@@ -53,6 +53,7 @@ void UMainMenu::OpenHostMenu()
 	MenuSwitcher->SetActiveWidget(HostMenu);
 }
 
+
 void UMainMenu::HostServer()
 {
 	if (MenuInterface != nullptr)
@@ -94,9 +95,9 @@ void UMainMenu::SelectIndex(uint32 Index)
 
 void UMainMenu::UpdateChildren()
 {
-	for (int32 i = 0; i< ServerList->GetChildrenCount(); ++i)
+	for (int32 i = 0; i < ServerList->GetChildrenCount(); ++i)
 	{
-		UServerRow* Row = Cast<UServerRow>(ServerList->GetChildAt(i));
+		auto Row = Cast<UServerRow>(ServerList->GetChildAt(i));
 		if (Row != nullptr)
 		{
 			Row->Selected = (SelectedIndex.IsSet() && SelectedIndex.GetValue() == i);

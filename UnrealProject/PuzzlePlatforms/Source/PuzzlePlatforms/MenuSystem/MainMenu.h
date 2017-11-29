@@ -15,7 +15,6 @@ struct FServerData
 	uint16 CurrentPlayers;
 	uint16 MaxPlayers;
 	FString HostUsername;
-
 };
 
 /**
@@ -63,16 +62,16 @@ private:
 	class UWidget* JoinMenu;
 
 	UPROPERTY(meta = (BindWidget))
-		class UWidget* HostMenu;
+	class UWidget* HostMenu;
 
 	UPROPERTY(meta = (BindWidget))
-		class UEditableTextBox* ServerHostName;
+	class UEditableTextBox* ServerHostName;
 
 	UPROPERTY(meta = (BindWidget))
-		class UButton* CancelHostMenuButton;
+	class UButton* CancelHostMenuButton;
 
 	UPROPERTY(meta = (BindWidget))
-		class UButton* ConfirmHostMenuButton;
+	class UButton* ConfirmHostMenuButton;
 
 	UPROPERTY(meta = (BindWidget))
 	class UPanelWidget* ServerList;
@@ -82,6 +81,7 @@ private:
 
 	UFUNCTION()
 	void JoinServer();
+
 
 	UFUNCTION()
 	void OpenHostMenu();
